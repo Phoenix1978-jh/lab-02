@@ -228,6 +228,7 @@ DONT HAVE BOOK, NO ANSWER
 (Some characteristics that may help your description might be the length of the file, whether or not you'd like to read the whole thing... or just the beginning or end, etc.)
 ----------
 1. Use less/more command if the length is really long or short
+2. cat shows all contents of file
 3. head shows the contents of the start of a file
 4. tail shows the end of the file
 
